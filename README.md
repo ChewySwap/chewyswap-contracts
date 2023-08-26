@@ -1,5 +1,7 @@
 # ChewySwap Exchange Shibarium Smart Contracts
 
+![Chewy the ChewySwap Mascot](https://chewyswap.dog/images/ChewyExchange.png)
+
 ChewySwap is the first multi-doggo-chain Decentralized Exchange on both Shibarium and Dogechain. The smart contracts in this repository are for the Shibarium side only. The smart contracts for the [Dogechain](https://dogechain.dog) side are originally deployed under the [Dogeshrek](https://dogeshrek.com), the code for which can be found [here](https://github.com/dogeshrek/dogeshrek-contracts).
 
 ## More Information
